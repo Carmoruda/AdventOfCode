@@ -16,7 +16,7 @@ def main():
     elfCalCount = []
     currentCalCount = 0
 
-    with open("./Advent of code 2022/input/day1-input", "r") as file:
+    with open("./AdventOfCode/2022/input/day1-input", "r") as file:
         text = file.readlines()
         for line in text:
             if line == "\n":
