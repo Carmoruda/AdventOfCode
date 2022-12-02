@@ -1,2 +1,3 @@
-# AdventOfCode
-🎄 My Advent of Code solutions.
+# 🎄Advent of Code
+
+My solutions to the [Advent of Code](https://adventofcode.com/) puzzles.
