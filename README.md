@@ -4,7 +4,7 @@ My solutions to the [Advent of Code](https://adventofcode.com/) puzzles.
 
 ## Quick Links
 
-- [Advent of Code 2022](2022/README.md)
+- [Advent of Code 2022](2022/README.md): [optimal](2022/solutions/) and [orginal](2022/original-solutions/) solutions.
 
 ## About Advent of Code
 
