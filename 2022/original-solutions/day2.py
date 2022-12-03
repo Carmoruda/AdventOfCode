@@ -38,7 +38,7 @@ def main():
     puntDict = {"A": 1, "B": 2, "C": 3}  # Points per shape
     finalSplit = []  # List for player's plays
 
-    with open("./AdventOfCode/2022/input/day2-input", "r") as file:
+    with open("./AdventOfCode/2022/inputs/202202", "r") as file:
         text = file.readlines()
 
         for line in text:
