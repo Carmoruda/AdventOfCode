@@ -9,3 +9,8 @@
 
 - [Problem](https://adventofcode.com/2022/day/2)
 - [Original solution](original-solutions/day02.py)
+
+## --- Day 3: Rucksack Reorganization ---
+
+- [Problem](https://adventofcode.com/2022/day/3)
+- [Original solution](original-solutions/day03.py)
