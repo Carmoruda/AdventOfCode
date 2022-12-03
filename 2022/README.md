@@ -14,3 +14,4 @@
 
 - [Problem](https://adventofcode.com/2022/day/3)
 - [Original solution](original-solutions/day03.py)
+- [Optimized solution](solutions/day03.py)
