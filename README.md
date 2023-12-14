@@ -1,10 +1,17 @@
-# 🎄Advent of Code
+<div align="center">
 
-My solutions to the [Advent of Code](https://adventofcode.com/) puzzles.
+![Advent of code](./media/adventOfCode.jpeg)
+
+# [🎄 Advent of Code](https://adventofcode.com/)
+
+My solutions to the [Advent of Code](https://adventofcode.com/) challenges.
+
+</div>
 
 ## Quick Links
 
-- [Advent of Code 2022](2022/README.md): [optimal](2022/solutions/) and [orginal](2022/original-solutions/) solutions.
+- [Advent of Code 2023](2023/README.md): [original](2023/original-solutions)
+- [Advent of Code 2022](2022/README.md): [optimal](2022/solutions) and [original](2022/original-solutions) solutions.
 
 ## About Advent of Code
 
@@ -12,13 +19,13 @@ My solutions to the [Advent of Code](https://adventofcode.com/) puzzles.
 
 It was launched in 2015 by [Eric Wastl](https://twitter.com/ericwastl) and has been running every year since.
 
-Each year, 25 puzzles are realeased on a daily schedule from December 1st to December 25th. Each puzzle consists of two parts, with the second part only being unlocked after the first one has been solved.
+Each year, 25 puzzles are released on a daily schedule from December 1st to December 25th. Each puzzle consists of two parts, with the second part only being unlocked after the first one has been solved.
 
 ## About this repo
 
-I discovered Advent of Code in 2020 but never got the courage to actually solve any of the puzzles. In 2022 I've decided to give it a try and I'm glad I did.
+I discovered Advent of Code in 2020 but never got the courage to actually solve any of the puzzles. In 2022, I've decided to give it a try and, I'm glad I did.
 
-In this repo I'll be posting my solutions to the puzzles. For the mostpart, I'll be using Python 3.11, although in some cases I will use other languages such as C.
+In this repo I'll be posting my solutions to the puzzles. For the most part, I'll be using Python 3.11, although in some cases I will use other languages such as C.
 
 In each year's folder you will find:
 
